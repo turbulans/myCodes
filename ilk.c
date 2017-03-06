@@ -2,4 +2,5 @@
 int main()
 {
 printf("merhaba github");
+printf("merhaba github");
 }
